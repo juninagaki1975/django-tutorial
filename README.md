@@ -1,7 +1,6 @@
 # django-tutorial
 
-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
-
+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
 
 # shell part
 
